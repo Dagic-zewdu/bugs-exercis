@@ -1,1 +1,1 @@
-# bugs-exercis
+# bugs-exercise
